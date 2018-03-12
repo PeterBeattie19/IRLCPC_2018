@@ -12,6 +12,8 @@ while True:
     break
   
   res.append(arr[i])
+  if len(res) == len(arr):
+    break
   res.append(arr[len(arr)-i-1])
   i+=1
   
