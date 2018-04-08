@@ -1,2 +1,2 @@
 # IRLCPC_2018
-IRLR_CPC 2018 Solutions
+IRL_CPC 2018 Solutions
